@@ -18,8 +18,8 @@ PZEM004Tv30 pzem(Serial2);
 //1. Change the following info
 #define FIREBASE_HOST "smart-energy-meter-526b3-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "AIzaSyA9BSbKMZGNysMPKEoQccnF2-p5zKQ5C0Q"
-#define WIFI_SSID "Mainak S20Fe"
-#define WIFI_PASSWORD "7585937979Mm"
+#define WIFI_SSID "Prithi S20Fe"
+#define WIFI_PASSWORD "7585937Mm"
 
 
 //2. Define FirebaseESP8266 data object for data sending and receiving
